@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Location__c</fullName>
+    <displayLocationInDecimal>true</displayLocationInDecimal>
+    <externalId>false</externalId>
+    <inlineHelpText>this field is creating while learning sfdx -scratch org conncept and pull dsata from scratch org  to locale project file and then sync it in git hub as a final step</inlineHelpText>
+    <label>Location</label>
+    <required>false</required>
+    <scale>7</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Location</type>
+</CustomField>
